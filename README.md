@@ -14,6 +14,7 @@ if (false) {
 ---
 ### HOWTO
 Drag `bool.h` into your project and use it!
+
 ---
 ### Compiler Compatiblity
 LLVM Clang 7.0 seems to works as expect, others should also work.
