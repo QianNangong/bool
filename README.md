@@ -16,5 +16,9 @@ if (false) {
 Drag `bool.h` into your project and use it!
 
 ---
+### Why Not C99 _Bool
+C99 defines `_Bool` as boolean in C, but it's opaque and hard to understand.
+
+---
 ### Compiler Compatiblity
-LLVM Clang 7.0 seems to works as expect, others should also work.
+LLVM Clang 7.0 seems to works as expect, other should also work.
